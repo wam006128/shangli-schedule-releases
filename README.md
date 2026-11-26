@@ -1,6 +1,6 @@
 # 上理日程
 
-上理日程是面向上海理工大学本科生的 Android 日程工具。用月历和周课表查看课程、考试、学校假期和待办，也可以设置提醒、查看已同步的成绩、阅读光电学院资讯。
+上理日程是面向上海理工大学本科生的 Android 日程工具。可以查看月历、课程、考试和待办，管理本地文件，浏览学校公开的学院和教师资料。
 
 ## 下载与使用
 
@@ -9,11 +9,10 @@
 - 点选月历中的日期可查看当天安排，也可以从底部切换到周课表。向下滑动首页可打开「学院资讯」。
 - 需要从学校更新课表、成绩和考试时，打开左上角菜单中的「账号与同步」，按学校页面提示操作。断网时可继续查看已保存的资料。
 
-## 0.8.3 更新
+## 0.8.4 更新
 
-- **更新**　首页用白色、浅蓝和浅绿卡片区分月历、当天课表和当周课表。点选日期可查看当天的课程、考试、假期和待办，以及该日期所在周的课程。
-- **更新**　学院资讯列表改为左图右文，有正文时会在标题下方显示摘录。已缓存的文章和配图可离线查看。
-- **修复**　公开学院资讯正文可使用系统截图，包括正文配图中的报名二维码。
+- **更新**　日程设置移到「记待办」右侧。侧边栏新增「学院与师资」，也可以在「我的文件」建文件夹、分类导入和长按多选删除。
+- **修复**　Android「打开方式」可选择上理日程查看文档。PDF 按原页显示，DOCX、XLS／XLSX 和 PPTX 在本机按版式预览。
 
 ## 版本维护
 
@@ -25,6 +24,7 @@
 
 | 构建时间 | 版本 | 更新摘要 | 下载 |
 |---|---|---|---|
+| 2026-11-26 12:04 | [0.8.4](https://github.com/wam006128/shangli-schedule-releases/releases/tag/v0.8.4) | 日程设置移到右上角，文件原版式预览与文件夹管理，新增学院师资与系统打开方式。 | [APK](https://github.com/wam006128/shangli-schedule-releases/releases/download/v0.8.4/shangli-schedule-0.8.4.apk) |
 | 2026-11-26 11:22 | [0.8.3](https://github.com/wam006128/shangli-schedule-releases/releases/tag/v0.8.3) | 首页区分月历、今日与本周课表，学院资讯增加配图和正文摘录，修复公开文章无法截图。 | [APK](https://github.com/wam006128/shangli-schedule-releases/releases/download/v0.8.3/shangli-schedule-0.8.3.apk) |
 | 2026-11-24 18:42 | [0.8.2](https://github.com/wam006128/shangli-schedule-releases/releases/tag/v0.8.2) | 月历回到首页，同页查看所选日期的考试、课程、校历和待办。 | [APK](https://github.com/wam006128/shangli-schedule-releases/releases/download/v0.8.2/shangli-schedule-0.8.2.apk) |
 | 2026-11-24 15:55 | [0.8.1](https://github.com/wam006128/shangli-schedule-releases/releases/tag/v0.8.1) | 优化今日首页、待办录入及资料浏览流程。 | [APK](https://github.com/wam006128/shangli-schedule-releases/releases/download/v0.8.1/shangli-schedule-0.8.1.apk) |
